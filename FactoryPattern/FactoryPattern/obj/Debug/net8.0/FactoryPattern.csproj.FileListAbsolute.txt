@@ -1,0 +1,17 @@
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/bin/Debug/net8.0/FactoryPattern
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/bin/Debug/net8.0/FactoryPattern.deps.json
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/bin/Debug/net8.0/FactoryPattern.runtimeconfig.json
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/bin/Debug/net8.0/FactoryPattern.dll
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/bin/Debug/net8.0/FactoryPattern.pdb
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/obj/Debug/net8.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/obj/Debug/net8.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/obj/Debug/net8.0/FactoryPattern.AssemblyInfo.cs
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/obj/Debug/net8.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/obj/Debug/net8.0/FactoryPattern.dll
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/obj/Debug/net8.0/refint/FactoryPattern.dll
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/obj/Debug/net8.0/FactoryPattern.pdb
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/obj/Debug/net8.0/FactoryPattern.genruntimeconfig.cache
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/obj/Debug/net8.0/ref/FactoryPattern.dll
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/obj/Debug/net8.0/FactoryPattern.csproj.AssemblyReference.cache
+/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/obj/Debug/net8.0/FactoryPattern.csproj.CopyComplete

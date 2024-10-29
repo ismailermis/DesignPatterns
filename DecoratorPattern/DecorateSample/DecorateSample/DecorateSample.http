@@ -1,0 +1,6 @@
+
+@url = http://localhost:5185
+@cityName=Bursa
+GET {{url}}/weather?city={{cityName}}
+Accept: application/json
+###

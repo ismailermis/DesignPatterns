@@ -1,0 +1,14 @@
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/bin/Debug/net8.0/FactoryMethod
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/bin/Debug/net8.0/FactoryMethod.deps.json
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/bin/Debug/net8.0/FactoryMethod.runtimeconfig.json
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/bin/Debug/net8.0/FactoryMethod.dll
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/bin/Debug/net8.0/FactoryMethod.pdb
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/obj/Debug/net8.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfo.cs
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/obj/Debug/net8.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/obj/Debug/net8.0/FactoryMethod.dll
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/obj/Debug/net8.0/refint/FactoryMethod.dll
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/obj/Debug/net8.0/FactoryMethod.pdb
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/obj/Debug/net8.0/FactoryMethod.genruntimeconfig.cache
+/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/obj/Debug/net8.0/ref/FactoryMethod.dll

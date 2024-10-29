@@ -1,0 +1,14 @@
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/bin/Debug/net8.0/AbstructFactory
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/bin/Debug/net8.0/AbstructFactory.deps.json
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/bin/Debug/net8.0/AbstructFactory.runtimeconfig.json
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/bin/Debug/net8.0/AbstructFactory.dll
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/bin/Debug/net8.0/AbstructFactory.pdb
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/obj/Debug/net8.0/AbstructFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/obj/Debug/net8.0/AbstructFactory.AssemblyInfoInputs.cache
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/obj/Debug/net8.0/AbstructFactory.AssemblyInfo.cs
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/obj/Debug/net8.0/AbstructFactory.csproj.CoreCompileInputs.cache
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/obj/Debug/net8.0/AbstructFactory.dll
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/obj/Debug/net8.0/refint/AbstructFactory.dll
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/obj/Debug/net8.0/AbstructFactory.pdb
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/obj/Debug/net8.0/AbstructFactory.genruntimeconfig.cache
+/Users/development/DesignPatterns/AbstructFactory/AbstructFactory/obj/Debug/net8.0/ref/AbstructFactory.dll

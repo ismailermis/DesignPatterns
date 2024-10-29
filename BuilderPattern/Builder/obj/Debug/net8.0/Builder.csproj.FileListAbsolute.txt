@@ -1,0 +1,14 @@
+/Users/development/DesignPatterns/BuilderPattern/Builder/bin/Debug/net8.0/Builder
+/Users/development/DesignPatterns/BuilderPattern/Builder/bin/Debug/net8.0/Builder.deps.json
+/Users/development/DesignPatterns/BuilderPattern/Builder/bin/Debug/net8.0/Builder.runtimeconfig.json
+/Users/development/DesignPatterns/BuilderPattern/Builder/bin/Debug/net8.0/Builder.dll
+/Users/development/DesignPatterns/BuilderPattern/Builder/bin/Debug/net8.0/Builder.pdb
+/Users/development/DesignPatterns/BuilderPattern/Builder/obj/Debug/net8.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/DesignPatterns/BuilderPattern/Builder/obj/Debug/net8.0/Builder.AssemblyInfoInputs.cache
+/Users/development/DesignPatterns/BuilderPattern/Builder/obj/Debug/net8.0/Builder.AssemblyInfo.cs
+/Users/development/DesignPatterns/BuilderPattern/Builder/obj/Debug/net8.0/Builder.csproj.CoreCompileInputs.cache
+/Users/development/DesignPatterns/BuilderPattern/Builder/obj/Debug/net8.0/Builder.dll
+/Users/development/DesignPatterns/BuilderPattern/Builder/obj/Debug/net8.0/refint/Builder.dll
+/Users/development/DesignPatterns/BuilderPattern/Builder/obj/Debug/net8.0/Builder.pdb
+/Users/development/DesignPatterns/BuilderPattern/Builder/obj/Debug/net8.0/Builder.genruntimeconfig.cache
+/Users/development/DesignPatterns/BuilderPattern/Builder/obj/Debug/net8.0/ref/Builder.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "StutH+t7w8fggeaIlZbMB795osuBiUIxNtI1wejT0zJv0r3UwbIEq6R5Jfn8IDrGnY8uJN4HcQhLx1Sqn8n+tQ==",
+  "success": true,
+  "projectFilePath": "/Users/development/DesignPatterns/FactoryPattern/FactoryPattern/FactoryPattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/development/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

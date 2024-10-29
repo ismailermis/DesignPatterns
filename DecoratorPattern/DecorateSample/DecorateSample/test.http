@@ -1,0 +1,16 @@
+@DecorateSample_HostAddress = http://localhost:5185
+@cityName
+GET {{DecorateSample_HostAddress}}/weatherforecast?city={{cityName}}
+Accept: application/json
+###
+###
+POST https://localhost:7128/weatherforecast/
+Accept: application/json
+Content-Type: application/json
+
+{
+    "cityName": "Brisbane",
+    "date": "19-Jun-2024",
+    "temperatureC": 8,
+    "summary": "windy"
+}
