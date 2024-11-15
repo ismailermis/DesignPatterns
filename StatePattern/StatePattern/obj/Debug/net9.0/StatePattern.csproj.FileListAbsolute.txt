@@ -1,0 +1,15 @@
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\obj\Debug\net9.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\obj\Debug\net9.0\StatePattern.AssemblyInfoInputs.cache
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\obj\Debug\net9.0\StatePattern.AssemblyInfo.cs
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\obj\Debug\net9.0\StatePattern.csproj.CoreCompileInputs.cache
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\obj\Debug\net9.0\StatePattern.sourcelink.json
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\bin\Debug\net9.0\StatePattern.exe
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\bin\Debug\net9.0\StatePattern.deps.json
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\bin\Debug\net9.0\StatePattern.runtimeconfig.json
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\bin\Debug\net9.0\StatePattern.dll
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\bin\Debug\net9.0\StatePattern.pdb
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\obj\Debug\net9.0\StatePattern.dll
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\obj\Debug\net9.0\refint\StatePattern.dll
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\obj\Debug\net9.0\StatePattern.pdb
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\obj\Debug\net9.0\StatePattern.genruntimeconfig.cache
+D:\Projects\MyGitHub\DesignPatterns\StatePattern\StatePattern\obj\Debug\net9.0\ref\StatePattern.dll
