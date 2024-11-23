@@ -1,0 +1,15 @@
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.AssemblyInfoInputs.cache
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.AssemblyInfo.cs
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.csproj.CoreCompileInputs.cache
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.sourcelink.json
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/bin/Debug/net8.0/TemplatePattern
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/bin/Debug/net8.0/TemplatePattern.deps.json
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/bin/Debug/net8.0/TemplatePattern.runtimeconfig.json
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/bin/Debug/net8.0/TemplatePattern.dll
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/bin/Debug/net8.0/TemplatePattern.pdb
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.dll
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/obj/Debug/net8.0/refint/TemplatePattern.dll
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.pdb
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/obj/Debug/net8.0/TemplatePattern.genruntimeconfig.cache
+/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/obj/Debug/net8.0/ref/TemplatePattern.dll
