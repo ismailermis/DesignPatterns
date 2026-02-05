@@ -564,11 +564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/development/DesignPatterns/OptionPattern/OptionPattern.Api/OptionPattern.Api.csproj",
+      "projectUniqueName": "/Users/development/DevelopmentProjects/DesignPatterns/OptionPattern/OptionPattern.Api/OptionPattern.Api.csproj",
       "projectName": "OptionPattern.Api",
-      "projectPath": "/Users/development/DesignPatterns/OptionPattern/OptionPattern.Api/OptionPattern.Api.csproj",
+      "projectPath": "/Users/development/DevelopmentProjects/DesignPatterns/OptionPattern/OptionPattern.Api/OptionPattern.Api.csproj",
       "packagesPath": "/Users/development/.nuget/packages/",
-      "outputPath": "/Users/development/DesignPatterns/OptionPattern/OptionPattern.Api/obj/",
+      "outputPath": "/Users/development/DevelopmentProjects/DesignPatterns/OptionPattern/OptionPattern.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/development/.nuget/NuGet/NuGet.Config"
@@ -589,7 +589,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -619,6 +625,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -627,7 +647,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

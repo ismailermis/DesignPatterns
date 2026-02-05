@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/development/DesignPatterns/BuilderPattern/Builder/Builder.csproj": {}
+    "/Users/development/DevelopmentProjects/DesignPatterns/BuilderPattern/Builder/Builder.csproj": {}
   },
   "projects": {
-    "/Users/development/DesignPatterns/BuilderPattern/Builder/Builder.csproj": {
+    "/Users/development/DevelopmentProjects/DesignPatterns/BuilderPattern/Builder/Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/development/DesignPatterns/BuilderPattern/Builder/Builder.csproj",
+        "projectUniqueName": "/Users/development/DevelopmentProjects/DesignPatterns/BuilderPattern/Builder/Builder.csproj",
         "projectName": "Builder",
-        "projectPath": "/Users/development/DesignPatterns/BuilderPattern/Builder/Builder.csproj",
+        "projectPath": "/Users/development/DevelopmentProjects/DesignPatterns/BuilderPattern/Builder/Builder.csproj",
         "packagesPath": "/Users/development/.nuget/packages/",
-        "outputPath": "/Users/development/DesignPatterns/BuilderPattern/Builder/obj/",
+        "outputPath": "/Users/development/DevelopmentProjects/DesignPatterns/BuilderPattern/Builder/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/development/.nuget/NuGet/NuGet.Config"
@@ -32,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -48,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

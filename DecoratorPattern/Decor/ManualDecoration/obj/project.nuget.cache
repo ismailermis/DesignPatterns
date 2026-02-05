@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KKfDvMNkWRVq3ZVk8LJKcRfXFKKGmLEQYN/+HVZDwJyI6XIv8t2dQobqyhwOqTqwFm8MRvaaoTf6J8koak3xSQ==",
+  "dgSpecHash": "bncE0snzXr8=",
   "success": true,
-  "projectFilePath": "/Users/development/DesignPatterns/DecoratorPattern/Decor/ManualDecoration/ManualDecoration.csproj",
+  "projectFilePath": "/Users/development/DevelopmentProjects/DesignPatterns/DecoratorPattern/Decor/ManualDecoration/ManualDecoration.csproj",
   "expectedPackageFiles": [
     "/Users/development/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0-rc.1.23421.29/microsoft.aspnetcore.openapi.8.0.0-rc.1.23421.29.nupkg.sha512",
     "/Users/development/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
@@ -10,14 +10,19 @@
     "/Users/development/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/development/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/development/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/Users/development/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/Users/development/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1603",
       "level": "Warning",
+      "message": "ManualDecoration depends on Microsoft.AspNetCore.OpenApi (>= 8.0.0-rc.1.23378.7) but Microsoft.AspNetCore.OpenApi 8.0.0-rc.1.23378.7 was not found. Microsoft.AspNetCore.OpenApi 8.0.0-rc.1.23421.29 was resolved instead.",
+      "projectPath": "/Users/development/DevelopmentProjects/DesignPatterns/DecoratorPattern/Decor/ManualDecoration/ManualDecoration.csproj",
       "warningLevel": 1,
-      "message": "ManualDecoration depends on Microsoft.AspNetCore.OpenApi (>= 8.0.0-rc.1.23378.7) but Microsoft.AspNetCore.OpenApi 8.0.0-rc.1.23378.7 was not found. An approximate best match of Microsoft.AspNetCore.OpenApi 8.0.0-rc.1.23421.29 was resolved.",
+      "filePath": "/Users/development/DevelopmentProjects/DesignPatterns/DecoratorPattern/Decor/ManualDecoration/ManualDecoration.csproj",
       "libraryId": "Microsoft.AspNetCore.OpenApi",
       "targetGraphs": [
         "net8.0"

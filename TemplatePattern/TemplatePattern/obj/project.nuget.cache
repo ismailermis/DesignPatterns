@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cqgtyFi0HrzhfrqTq/nuS2dggyOhoQ21m7/PLFTVzluVZ0XzOuabfB8f58yRLd134DLg1StrBtPgQXARTaRvNA==",
+  "dgSpecHash": "+tpYmGrObqg=",
   "success": true,
-  "projectFilePath": "/Users/development/Developments/DesignPatterns/TemplatePattern/TemplatePattern/TemplatePattern.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/development/DevelopmentProjects/DesignPatterns/TemplatePattern/TemplatePattern/TemplatePattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/development/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

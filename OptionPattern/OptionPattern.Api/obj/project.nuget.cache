@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5p4GKOxsqh/hg44KNsn0jxSo5B+Bp2xob86NajY1NyIFe4e7MoFgGMF8e1ki7ArJ4Atj3IMRZ46vxQrz75yPeA==",
+  "dgSpecHash": "lMaUrFdetCk=",
   "success": true,
-  "projectFilePath": "/Users/development/DesignPatterns/OptionPattern/OptionPattern.Api/OptionPattern.Api.csproj",
+  "projectFilePath": "/Users/development/DevelopmentProjects/DesignPatterns/OptionPattern/OptionPattern.Api/OptionPattern.Api.csproj",
   "expectedPackageFiles": [
     "/Users/development/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
     "/Users/development/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.2/fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
@@ -13,7 +13,10 @@
     "/Users/development/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/development/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/development/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/Users/development/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/Users/development/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Zp9cn+sXJ1IUVgIzpVdl379RO/e9J16ZXccZLrohca95HJiLAaeHjgEyOX2ADMk9o37DJQSWx8w1TusuCXyqeA==",
+  "dgSpecHash": "4s4Ci6oNtYs=",
   "success": true,
-  "projectFilePath": "/Users/development/Developments/DesignPatterns/ProxyPattern/ProxyPattern/ProxyPattern.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/development/DevelopmentProjects/DesignPatterns/ProxyPattern/ProxyPattern/ProxyPattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/development/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

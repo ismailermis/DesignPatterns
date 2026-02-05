@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rn1WwT/x0BLS/8NCGu9IpxD5QIWYxYmsJ4P/YXXwEe3C2dELCgwdS/VT1rNyN+P5f2Uq5oDN8Kx5BHqrHswO5Q==",
+  "dgSpecHash": "m1J5kfuse6s=",
   "success": true,
-  "projectFilePath": "/Users/development/DesignPatterns/FactoryMethod/FactoryMethod/FactoryMethod.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/development/DevelopmentProjects/DesignPatterns/FactoryMethod/FactoryMethod/FactoryMethod.csproj",
+  "expectedPackageFiles": [
+    "/Users/development/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/development/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
