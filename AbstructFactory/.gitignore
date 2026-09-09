@@ -1,0 +1,238 @@
+============================================================
+.NET / ASP.NET Core
+============================================================
+
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+publish/
+
+.NET generated files
+
+*.cache
+*.generated.cs
+*.g.cs
+
+NuGet
+
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+Test results
+
+TestResults/
+*.trx
+coverage/
+coverage.xml
+
+Logs
+
+*.log
+**/AssemblyInfo.cs
+**/AssemblyInfoInputs.cache
+
+============================================================
+Visual Studio
+============================================================
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+============================================================
+JetBrains Rider / ReSharper
+============================================================
+
+.idea/
+.sln.iml
+_ReSharper/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+============================================================
+VS Code
+============================================================
+
+.vscode/
+
+============================================================
+ASP.NET Core
+============================================================
+Local HTTPS development certificate
+
+*.pfx
+*.p12
+
+Local secrets
+
+secrets.json
+
+Local configuration
+
+appsettings.Local.json
+
+Development configuration
+Remove this rule if you intentionally commit this file.
+
+appsettings.Development.json
+
+============================================================
+Environment / Secrets
+============================================================
+
+.env
+.env.*
+!.env.example
+
+Common secret/config files
+
+*.secret
+*.secrets
+secrets/
+
+============================================================
+EF Core / Local Databases
+============================================================
+SQLite
+
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+Local SQL Server database files
+
+*.mdf
+*.ldf
+
+============================================================
+Docker
+============================================================
+Local Docker override
+
+docker-compose.override.yml
+
+Docker local environment
+
+docker-compose.local.yml
+
+Docker volumes
+
+.docker/
+
+============================================================
+React / Angular / Node
+============================================================
+
+node_modules/
+
+Build output
+
+dist/
+build/
+out/
+
+React
+
+.react/
+
+Angular
+
+.angular/
+
+Vite
+
+.vite/
+
+npm
+
+npm-debug.log*
+npm-error.log*
+
+Yarn
+
+yarn-debug.log*
+yarn-error.log*
+
+pnpm
+
+pnpm-debug.log*
+
+Package manager caches
+
+.npm/
+.yarn/
+.pnpm-store/
+
+============================================================
+Frontend environment files
+============================================================
+
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+Keep example environment files
+
+!.env.example
+!.env.*.example
+
+============================================================
+Coverage / Reports
+============================================================
+
+coverage/
+.nyc_output/
+
+============================================================
+OS
+============================================================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+============================================================
+Temporary files
+============================================================
+
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+EOF
+
+============================================================
+BenchmarkDotNet
+============================================================
+
+BenchmarkDotNet.Artifacts/
+
+============================================================
+Azure / Local tooling
+============================================================
+
+.azure/
+
+============================================================
+Publish / Deployment
+============================================================
+
+*.publishsettings
+*.pubxml.user
+
+Kubernetes local artifacts
+
+*.kubeconfig
