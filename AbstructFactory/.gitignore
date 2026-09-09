@@ -31,8 +31,8 @@ coverage.xml
 Logs
 
 *.log
-**/AssemblyInfo.cs
-**/AssemblyInfoInputs.cache
+**/*AssemblyInfo.cs
+**/*AssemblyInfoInputs.cache
 
 ============================================================
 Visual Studio
